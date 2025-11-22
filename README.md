@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Paulo Izidoro, tenho 19 anos e sou de São Paulo – SP. Atualmente curso Ciência da Computação, com ênfase em desenvolvimento back-end em Java, área pela qual sou profundamente apaixonado. Sou autor do artigo científico "Arquitetura de Microsserviços em Java com Docker e AWS: Vantagens e Desafios", onde aprofundei conceitos de escalabilidade, containerização e computação em nuvem. No meu GitHub, compartilho meus projetos pessoais e estudos contínuos, especialmente focados no ecossistema Java e na construção de sistemas eficientes e escaláveis..
+Me chamo Paulo Izidoro, tenho 19 anos e sou de São Paulo – SP. Atualmente curso Ciência da Computação, com ênfase em desenvolvimento back-end em Java, área pela qual sou profundamente apaixonado. Sou autor do artigo científico "Arquitetura de Microsserviços em Java com Docker e AWS: Vantagens e Desafios", onde aprofundei conceitos de escalabilidade, containerização e computação em nuvem. No meu GitHub, compartilho meus projetos pessoais e estudos contínuos, especialmente focados no ecossistema Java e na construção de sistemas eficientes e escaláveis.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/paulo-izidoroo/" target="_blank">
